@@ -11,4 +11,4 @@ We also got our tape sensors to function correctly in time for the upcoming chec
 
 As of now we are implementing our Solidworks CAD model to later prototype our robot by cutting parts out of a MDF sheet, working on our system block diagram and the top two levels of our finite state machine, and purchasing the parts we need to prototype our robot.
 
-<video src="http://iamtechknow.github.io/118website/images/working_tape_short.mp4" controls></video>
+<video src="http://iamtechknow.github.io/118website/images/working_tape_short.mp4" width="640" height="360" controls></video>
