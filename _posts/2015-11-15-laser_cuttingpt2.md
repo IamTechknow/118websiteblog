@@ -1,0 +1,12 @@
+---
+layout: post
+title: Laser Cutting Part 2 and today's Progress
+---
+
+<p>Following our first laser cuts we decided to focus just modeling a base that we can quickly print and assemble. Luis and Edmond decided that the motor mounts should be ditched in favor of motor boxes. Neither of these "mounts" serve the purpose of securing the motors, they are meant to support a base level for the tape sensors since they need to be an inch off the ground. We also decided to seperate the wheel mountings and the board mountings, that is they belong in two seperate bases but are seperated by a short tab slot divider. This allows room to mount our Uno32 stack and daughterboards. We also modified the screw hole for the bumper mechanism to support the screws we have.</p>
+
+<p>Most of our team stayed up last night working on our test harnesses and sensors so only Edmond was still at the lab by noon. He was able to finish modelling a new version of the robot base that Luis started in order to start laser cutting with foamcore and assembling the prototype. It took a few hours from waiting to laser cut to assembling, but he and later when Aaron stopped by were able to construct an assembly resembling the CAD model!</p>
+
+<p>Despite working with foamcore, we found it to be a quick and dirty and janky material for prototyping. We had to use a lot of hot glue to attached the tab slots, which did not hold up very well due to the filmsiness of foamcore. We also found that it is important to plan our assembly very carefully from bottom to top because hot gluing is an inreversible action. It is possible to take up a bond made by glue with foamcore, but we are sure it will be much harder to do so with MDF. Our current design makes maintainence very difficult, it is not possible to replace screws or motors once attached without having to tear down the assembly. We will need to modify our design to support wires for our sensors. We did find the predictions we made with our new prototype worked for the most part, the two base levels are fairly stable, and we were able to place our bump sensors to allow the bumper to trigger them. The support rods should be able to support another floor for the ammo plunger and our perfboards.</p>
+
+<p>Other than constructing our prototyping to try out our design ideas, Jake continued soldering up the sensor perfboards and Luis continued to write the code for the test harnesses.</p>
