@@ -24,4 +24,4 @@ title: Bump and Tape sensors done
 	<li>Jake continued soldering the two track wire sensors on one perfboard and reports that he has amplified the signal so that it has a range of a few inches. </li>
 </ol>
 
-<img src="http://iamtechknow.github.io/118website/images/new_bump_sensor_loc.jpg" />
+<img src="http://iamtechknow.github.io/118website/images/mdf/new_bump_sensor_loc.jpg" />
